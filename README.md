@@ -1,0 +1,2 @@
+# template
+Just another repository
